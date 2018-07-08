@@ -12,6 +12,9 @@ h1{
 h2{
   color : pink;
 }
+h3{
+  text-align: center;
+}
 #content{
   padding: 15px;
 }
